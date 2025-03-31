@@ -1,0 +1,6 @@
+framework module JFKJLivnessSDK {
+  umbrella header "JFKJLivnessSDK.h"
+  export *
+
+  module * { export * }
+}
